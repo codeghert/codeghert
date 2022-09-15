@@ -8,4 +8,4 @@
 <h2 align=right> تماس با من:</h2>
 
 
-<a    href="https://www.instagram.com/philo_it"><img  src="https://raw.githubusercontent.com/codeghert/codeghert/295b77bff44f9ea070e20622d9c0beb28885985a/image/instagram-new.png" width="30px" height="30px"> </a>
+<a    href="https://www.instagram.com/philo_it"><img  src="https://raw.githubusercontent.com/codeghert/codeghert/295b77bff44f9ea070e20622d9c0beb28885985a/image/instagram-new.png" width="30px" height="30px"> </a><a    href="https://www.instagram.com/philo_it"><img  src="https://raw.githubusercontent.com/codeghert/codeghert/295b77bff44f9ea070e20622d9c0beb28885985a/image/instagram-new.png" width="30px" height="30px"> </a>
